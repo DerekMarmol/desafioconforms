@@ -1,0 +1,10 @@
+C:\Users\Enyt9\source\repos\desafio2forms\bin\Debug\desafio2forms.exe.config
+C:\Users\Enyt9\source\repos\desafio2forms\bin\Debug\desafio2forms.exe
+C:\Users\Enyt9\source\repos\desafio2forms\bin\Debug\desafio2forms.pdb
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.csproj.AssemblyReference.cache
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\Prestamo.Form2.resources
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.Properties.Resources.resources
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.csproj.GenerateResource.cache
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.csproj.CoreCompileInputs.cache
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.exe
+C:\Users\Enyt9\source\repos\desafio2forms\obj\Debug\desafio2forms.pdb
